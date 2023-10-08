@@ -1,11 +1,3 @@
-# Data and Programming for Public Policy II - Python Programming
-# PPHA 30538
-
-
-## Final Project: Reproducible Research
-## Autumn 2022
-
-
 ### Project Description:
 
 Investigation on the relationship between raw materials’ price and electricity price
